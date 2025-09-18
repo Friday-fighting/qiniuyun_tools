@@ -21,7 +21,7 @@ bucket := "your bucket name"
 expTimeKey := "your qiniu exp time key"
 expTime := 3600
 
-client := qiniuyun.NewClient(ak, sk, urlPrefix, bucket, expTimeKey, expTime)
+client := qiniuyun_tools.NewClient(ak, sk, urlPrefix, bucket, expTimeKey, expTime)
 
 ### 操作
 ......
