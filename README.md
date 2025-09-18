@@ -6,13 +6,13 @@
 
 ## get
 ```bash
-go get github.com/zhengyuxiang/qiniuyun_tools
+go get github.com/Friday-fighting/qiniuyun_tools
 ```
 
 ## use
 ```go
 import (
-    "github.com/zhengyuxiang/qiniuyun_tools"
+    "github.com/Friday-fighting/qiniuyun_tools"
 )
 ak := "your qiniu access key"
 sk := "your qiniu secret key"
