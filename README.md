@@ -6,7 +6,7 @@
 
 ## get
 ```bash
-go get github.com/Friday-fighting/qiniuyun_tools@v1.0.0
+go get github.com/Friday-fighting/qiniuyun_tools@v1.0.1
 ```
 
 ## use
